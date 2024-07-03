@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://mkb1delicious.com/](https://mkb1delicious.com/)
+- 👨‍💻 Please visit my website [https://mkb1delicious.com/](https://mkb1delicious.com/)
 
 - 📫 How to reach me **fauzantanzil@gmail.com**
 
