@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **fauzantanzil@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I like learning about new technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
